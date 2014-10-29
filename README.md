@@ -1,0 +1,1 @@
+FizzBuzz yet again, this time in CoffeeScript, testing using mocha/chai
